@@ -82,7 +82,7 @@ translate spanish commonroute_2d9c53a0:
 translate spanish commonroute_41cdf719:
 
     # "I've had a few, actually."
-    "La verdad es que he tenido unos cuantos."
+    "La verdad es que tuve unos cuantos."
 
 # game/commonroute.rpy:21
 translate spanish commonroute_a20cefa7:
@@ -94,7 +94,7 @@ translate spanish commonroute_a20cefa7:
 translate spanish commonroute_9255bc36:
 
     # "I stand there for a while longer, finally deciding that the sun's set enough for me to start getting ready."
-    "Me quedo allí un rato más y, al final, decido que el sol ya se ha puesto lo suficiente como para empezar a prepararme."
+    "Me quedo allí un rato más y, al final, decido que el sol ya se puso lo suficiente como para empezar a prepararme."
 
 # game/commonroute.rpy:23
 translate spanish commonroute_01cfe5dd:
@@ -148,7 +148,7 @@ translate spanish commonroute_23774ed9:
 translate spanish commonroute_b09634b8:
 
     # "Kneeling down, I work my claws between the floorboards, knowing exactly which one I want because I've memorized the pattern of the wood grain."
-    "Me arrodillo y meto las garras entre las tablas del suelo, sabiendo exactamente cuál quiero, porque me he aprendido de memoria el patrón de las vetas de la madera."
+    "Me arrodillo y meto las garras entre las tablas del suelo, sabiendo exactamente cuál quiero, porque me aprendí de memoria el patrón de las vetas de la madera."
 
 # game/commonroute.rpy:35
 translate spanish commonroute_5744e4a1:
@@ -172,7 +172,7 @@ translate spanish commonroute_56c3edb1:
 translate spanish commonroute_b456d697:
 
     # "Holding my breath, I stick my free paw down through the small space I've made between the floor boards and feel around."
-    "Conteniendo la respiración, meto la pata libre por el pequeño hueco que he abierto entre las tablas del suelo y tanteo a mi alrededor."
+    "Conteniendo la respiración, meto la pata libre por el pequeño hueco que abrí entre las tablas del suelo y tanteo a mi alrededor."
 
 # game/commonroute.rpy:40
 translate spanish commonroute_2c5e914c:
@@ -184,7 +184,7 @@ translate spanish commonroute_2c5e914c:
 translate spanish commonroute_c3ce456c:
 
     # "Using my claws again, I pick them up, careful not to drop them because I've already done that and the sound they make would bring everybody running."
-    "Vuelvo a usar las garras para agarrarlas, con cuidado de no dejarlas caer, porque ya lo he hecho antes y el ruido que hacen haría que todo el mundo viniera corriendo."
+    "Vuelvo a usar las garras para agarrarlas, con cuidado de no dejarlas caer, porque ya lo hice antes y el ruido que hacen haría que todo el mundo viniera corriendo."
 
 # game/commonroute.rpy:42
 translate spanish commonroute_e30d082e:
@@ -298,7 +298,7 @@ translate spanish commonroute_806909e9:
 translate spanish commonroute_12abecb8:
 
     # "Thank God, the girl somehow didn't notice, and I finally feel my heart start to calm down a little bit."
-    "Gracias a Dios, la chica, no sé cómo, no se ha dado cuenta, y por fin siento que mi corazón empieza a calmarse un poco."
+    "Gracias a Dios, la chica, no sé cómo, no se dio cuenta, y por fin siento que mi corazón empieza a calmarse un poco."
 
 # game/commonroute.rpy:68
 translate spanish commonroute_88ca38f5:
@@ -370,7 +370,7 @@ translate spanish commonroute_fdcfd18e:
 translate spanish commonroute_bfbd0731:
 
     # cy "\"Well, you know, there's this weasel in town. He's from Batavia and apparently he's made an appointment here!\""
-    cy "\"Pues mira, hay una comadreja en el pueblo. Es de Batavia y, al parecer, ¡ha pedido cita aquí!\""
+    cy "\"Pues mira, hay una comadreja en el pueblo. Es de Batavia y, al parecer, ¡pidió cita aquí!\""
 
 # game/commonroute.rpy:85
 translate spanish commonroute_50a5dca6:
@@ -388,7 +388,7 @@ translate spanish commonroute_d92013fd:
 translate spanish commonroute_32427a91:
 
     # cy "\"Oh Sam. As I said, he's from Batavia, and... he made the appointment with you.\""
-    cy "\"Ay, Sam. Como te decía, es de Batavia y... ha pedido cita contigo.\""
+    cy "\"Ay, Sam. Como te decía, es de Batavia y... pidió cita contigo.\""
 
 # game/commonroute.rpy:90
 translate spanish commonroute_fb923c94:
@@ -472,7 +472,7 @@ translate spanish commonroute_77ae5dba:
 translate spanish commonroute_1cc2a7dd:
 
     # cy "\"Fine, but you should try to show your face around more often; that's the first step to building your clientèle.\""
-    cy "\"Está bien, pero deberías intentar dejarte ver por aquí más a menudo; es el primer paso para hacerte una clientela.\""
+    cy "\"Está bien, pero deberías intentar dejarte ver por aquí más seguido; es el primer paso para hacerte una clientela.\""
 
 # game/commonroute.rpy:109
 translate spanish commonroute_e96b5c56:
@@ -682,7 +682,7 @@ translate spanish commonroute_1b9b48f2:
 translate spanish commonroute_7ad5270a:
 
     # "At least that's what I've been told about this place."
-    "Al menos eso es lo que me han contado de este lugar."
+    "Al menos eso es lo que me contaron de este lugar."
 
 # game/commonroute.rpy:154
 translate spanish commonroute_81856177:
@@ -784,7 +784,7 @@ translate spanish commonroute_e656eebc:
 translate spanish commonroute_097d0257:
 
     # ja "\"That's normal. I've done it a few times myself. Hopefully this'll be the last time now that I got myself a partner!\""
-    ja "\"Es normal. Yo también lo he hecho unas cuantas veces. ¡Ojalá sea la última vez ahora que me he buscado un socio!\""
+    ja "\"Es normal. Yo también lo hice unas cuantas veces. ¡Ojalá sea la última vez ahora que me conseguí un socio!\""
 
 # game/commonroute.rpy:175
 translate spanish commonroute_3bce1f45:
@@ -946,7 +946,7 @@ translate spanish commonroute_df8ec4bc:
 translate spanish commonroute_fbd80db2:
 
     # ja "\"Samuel, I found gold in the mine!\""
-    ja "\"¡Samuel, he encontrado oro en la mina!\""
+    ja "\"¡Samuel, encontré oro en la mina!\""
 
 # game/commonroute.rpy:202
 translate spanish commonroute_75c48cf6:
@@ -1042,7 +1042,7 @@ translate spanish commonroute_157481d1:
 translate spanish commonroute_68d33dd1:
 
     # "Jack just told me he found something that could change my life completely."
-    "Jack acaba de decirme que ha encontrado algo que podría cambiarme la vida por completo."
+    "Jack acaba de decirme que encontró algo que podría cambiarme la vida por completo."
 
 # game/commonroute.rpy:218
 translate spanish commonroute_69478730:
@@ -1108,7 +1108,7 @@ translate spanish commonroute_3ae6e8d2:
 translate spanish commonroute_d09b0662:
 
     # ja "\"There are still miners in the main stretch of the mine, even though it's Sunday. This is why I left it there until now; we're gonna grab it and get the hell outta town before anyone can get their dirty paws on it.\""
-    ja "\"Todavía hay mineros en el tramo principal de la mina, aunque sea domingo. Por eso lo he dejado ahí hasta ahora; vamos a agarrarlo y a largarnos de este pueblo antes de que nadie le ponga sus sucias patas encima.\""
+    ja "\"Todavía hay mineros en el tramo principal de la mina, aunque sea domingo. Por eso lo dejé ahí hasta ahora; vamos a agarrarlo y a largarnos de este pueblo antes de que nadie le ponga sus sucias patas encima.\""
 
 # game/commonroute.rpy:229
 translate spanish commonroute_2d6ee573:
@@ -1390,7 +1390,7 @@ translate spanish commonroute_737f501d:
 translate spanish commonroute_f6c00a4b:
 
     # "The lantern gaslight disappears for a moment as I realize that Jack has made it through to the other side, and that's when I break through, finally able to breathe easy in the wider space we come into."
-    "La luz de gas del farol desaparece por un instante cuando me doy cuenta de que Jack ha llegado al otro lado, y es entonces cuando yo también salgo, por fin capaz de respirar tranquilo en el espacio más amplio al que entramos."
+    "La luz de gas del farol desaparece por un instante cuando me doy cuenta de que Jack llegó al otro lado, y es entonces cuando yo también salgo, por fin capaz de respirar tranquilo en el espacio más amplio al que entramos."
 
 # game/commonroute.rpy:283
 translate spanish commonroute_aa6e46a0:
@@ -1714,7 +1714,7 @@ translate spanish commonroute_315c4bab:
 translate spanish commonroute_7262f22e:
 
     # "Like he kept mentioning, I'm a hell of a lot bigger than him, and he goes down like a broken matchstick, belly flopping into the dirt."
-    "Como no paraba de decir, soy muchísimo más grande que él, y cae como una fósforo roto, estampándose de bruces contra el suelo."
+    "Como no paraba de decir, soy muchísimo más grande que él, y cae como un cerillo roto, estampándose de bruces contra el suelo."
 
 # game/commonroute.rpy:347
 translate spanish commonroute_fd09e9a5:
@@ -1792,7 +1792,7 @@ translate spanish commonroute_fcb4f19c:
 translate spanish commonroute_1a53d658:
 
     # "The sharp pain in my head is gone now, replaced by a deep throb that penetrates all the way from the back of my neck to the back of my eyes."
-    "El dolor agudo de cabeza ya ha desaparecido, reemplazado por un latido profundo que me atraviesa desde la nuca hasta la parte posterior de los ojos."
+    "El dolor agudo de cabeza ya desapareció, reemplazado por un latido profundo que me atraviesa desde la nuca hasta la parte posterior de los ojos."
 
 # game/commonroute.rpy:361
 translate spanish commonroute_5e98945e:
@@ -1828,7 +1828,7 @@ translate spanish commonroute_1ca3f7e1:
 translate spanish commonroute_3c13ee60:
 
     # "Dully, I wonder if it's the throbbing, rushing sound in my ears that had kept me from hearing him, but I don't have time to think anything else as he rushes at me, thrusting the head of the pick at my face."
-    "Vagamente, me pregunto si ha sido el zumbido palpitante y ensordecedor en mis oídos lo que me ha impedido oírlo, pero no tengo tiempo de pensar en nada más porque se lanza hacia mí y me apunta a la cara con la punta del pico."
+    "Vagamente, me pregunto si fue el zumbido palpitante y ensordecedor en mis oídos lo que me impidió oírlo, pero no tengo tiempo de pensar en nada más porque se lanza hacia mí y me apunta a la cara con la punta del pico."
 
 # game/commonroute.rpy:367
 translate spanish commonroute_24133194:
@@ -1858,7 +1858,7 @@ translate spanish commonroute_7c60a4cb:
 translate spanish commonroute_3503a635:
 
     # "Even after what's happened, I find that almost impossible to believe."
-    "Incluso después de lo que ha pasado, me resulta casi imposible de creer."
+    "Incluso después de lo que pasó, me resulta casi imposible de creer."
 
 # game/commonroute.rpy:372
 translate spanish commonroute_10517049:
@@ -1996,7 +1996,7 @@ translate spanish commonroute_88db7594:
 translate spanish commonroute_e42d1cff:
 
     # "I keep staring, my mind still trying to figure how I got here from just ten minutes ago."
-    "Sigo mirando fijamente, con la mente aún intentando entender cómo he llegado hasta aquí desde hace apenas diez minutos."
+    "Sigo mirando fijamente, con la mente aún intentando entender cómo llegué hasta aquí desde hace apenas diez minutos."
 
 # game/commonroute.rpy:399
 translate spanish commonroute_d3fd9e37:
@@ -2092,7 +2092,7 @@ translate spanish commonroute_39fb532f:
 translate spanish commonroute_5a882715:
 
     # "The shape of the now-dead flame burned into my vision is the only thing I can see now."
-    "La silueta de la llama, ya apagada, se me ha grabado en la retina y es lo único que puedo ver ahora."
+    "La silueta de la llama, ya apagada, se me grabó en la retina y es lo único que puedo ver ahora."
 
 # game/commonroute.rpy:419
 translate spanish commonroute_e7decc28:
@@ -2416,7 +2416,7 @@ translate spanish commonroute_fd2d26a6:
 translate spanish commonroute_9ab05007:
 
     # "The complete, overwhelming fear has settled into a dull, almost numb feeling in my chest."
-    "El miedo total y abrumador se ha convertido en una sensación sorda, casi de entumecimiento, en mi pecho."
+    "El miedo total y abrumador se convirtió en una sensación sorda, casi de entumecimiento, en mi pecho."
 
 # game/commonroute.rpy:474
 translate spanish commonroute_b22606d9:
@@ -2524,7 +2524,7 @@ translate spanish commonroute_24d4bfeb:
 translate spanish commonroute_32d75157:
 
     # "But he's already seen me, and I recognize him at the same time he recognizes me."
-    "Pero ya me ha visto, y yo lo reconozco al mismo tiempo que él me reconoce a mí."
+    "Pero ya me vio, y yo lo reconozco al mismo tiempo que él me reconoce a mí."
 
 # game/commonroute.rpy:496
 translate spanish commonroute_70b8d027:
@@ -2560,7 +2560,7 @@ translate spanish commonroute_52af95d0:
 translate spanish commonroute_1029fd50:
 
     # ni "\"What happened!?\""
-    ni "\"¿Qué ha pasado?\""
+    ni "\"¿Qué pasó?\""
 
 # game/commonroute.rpy:504
 translate spanish commonroute_cbde3242:
@@ -2668,7 +2668,7 @@ translate spanish commonroute_873391a9:
 translate spanish commonroute_a8878fa2:
 
     # ni "\"I know others with money. Who beat you?\""
-    ni "\"Conozco a otros que tienen dinero. ¿Quién te ha pegado?\""
+    ni "\"Conozco a otros que tienen dinero. ¿Quién te golpeó?\""
 
 # game/commonroute.rpy:529
 translate spanish commonroute_8147045b:
@@ -2698,7 +2698,7 @@ translate spanish commonroute_51383dce:
 translate spanish commonroute_45f46bca:
 
     # "It's not often I see him angry."
-    "No suelo verlo enfadado."
+    "No suelo verlo enojado."
 
 # game/commonroute.rpy:535
 translate spanish commonroute_034b16cd:
@@ -2878,7 +2878,7 @@ translate spanish commonroute_34645094:
 translate spanish commonroute_980a2a5e:
 
     # "Something's been woken up, and it's restless."
-    "Algo se ha despertado, y está inquieto."
+    "Algo se despertó, y está inquieto."
 
 # game/commonroute.rpy:573
 translate spanish commonroute_c046925e:
@@ -2944,7 +2944,7 @@ translate spanish commonroute_26a9a2b7:
 translate spanish commonroute_557afca0:
 
     # cy "\"Sam, what happened!?\""
-    cy "\"¡Sam! ¿Qué ha pasado?\""
+    cy "\"¡Sam! ¿Qué pasó?\""
 
 # game/commonroute.rpy:588
 translate spanish commonroute_79f36bf6:
@@ -3064,7 +3064,7 @@ translate spanish commonroute_2ed30b46:
 translate spanish commonroute_cace20fe:
 
     # md "\"Who did this?\""
-    md "\"¿Quién ha hecho esto?\""
+    md "\"¿Quién hizo esto?\""
 
 # game/commonroute.rpy:625
 translate spanish commonroute_bdff7f08:
@@ -3142,7 +3142,7 @@ translate spanish commonroute_b2d97273:
 translate spanish commonroute_4da9ca57:
 
     # "He also mentions that it looks like I got hit with a heavy tool of some kind."
-    "También comenta que parece que me han golpeado con algún tipo de herramienta pesada."
+    "También comenta que parece que me golpearon con algún tipo de herramienta pesada."
 
 # game/commonroute.rpy:649
 translate spanish commonroute_358fd227:
@@ -3166,7 +3166,7 @@ translate spanish commonroute_343137cf:
 translate spanish commonroute_3a744576:
 
     # "Instead, Echo seems not to have noticed a man named Jack going missing."
-    "En cambio, parece que en Echo nadie se ha dado cuenta de que un hombre llamado Jack ha desaparecido."
+    "En cambio, parece que en Echo nadie se dio cuenta de que un hombre llamado Jack desapareció."
 
 # game/commonroute.rpy:653
 translate spanish commonroute_a24a199a:
@@ -3520,7 +3520,7 @@ translate spanish commonroute_5dc5d11e:
 translate spanish commonroute_9c45b431:
 
     # cy "\"Madam wants you to do a few errands today, considering you’ve been idle. Could be helpful for you to be out and about for a spell.\""
-    cy "\"Madam quiere que hagas unos cuantos recados hoy, visto que has estado ocioso. Podría venirte bien salir un rato y dar una vuelta.\""
+    cy "\"Madam quiere que hagas unos cuantos recados hoy, ya que has estado ocioso. Podría venirte bien salir un rato y dar una vuelta.\""
 
 # game/commonroute.rpy:753
 translate spanish commonroute_8d4a660b:
@@ -3664,7 +3664,7 @@ translate spanish commonroute_c2611384:
 translate spanish commonroute_dc3adfb7:
 
     # "He always looks angry to me, but speaks in a flat manner, so I can never tell what’s on his mind."
-    "A mí siempre me parece enfadado, pero habla con un tono plano, así que nunca sé qué le pasa por la cabeza."
+    "A mí siempre me parece enojado, pero habla con un tono plano, así que nunca sé qué le pasa por la cabeza."
 
 # game/commonroute.rpy:790
 translate spanish commonroute_1f17d6bf:
@@ -3790,7 +3790,7 @@ translate spanish commonroute_51f1669b:
 translate spanish commonroute_30a71ea0:
 
     # "What I see there now is a young girl crying over a drink she spilled on her gown."
-    "Lo que veo allí ahora es a una chica joven llorando por una bebida que ha derramado sobre su vestido."
+    "Lo que veo allí ahora es a una chica joven llorando por una bebida que derramó sobre su vestido."
 
 # game/commonroute.rpy:821
 translate spanish commonroute_e3c5b1b1:
@@ -3856,7 +3856,7 @@ translate spanish commonroute_98c77922:
 translate spanish commonroute_6c2a0940:
 
     # "Huxley" "\"Marcy told me that the rug is staying.\""
-    "Huxley" "\"Marcy me ha dicho que la alfombra se queda.\""
+    "Huxley" "\"Marcy me dijo que la alfombra se queda.\""
 
 # game/commonroute.rpy:838
 translate spanish commonroute_08cb88ea:
@@ -3898,7 +3898,7 @@ translate spanish commonroute_9e152619:
 translate spanish commonroute_075f41e3:
 
     # "Huxley" "\"She’s tried, but she ain't that clever. I’m just sick of looking at the damn thing.\""
-    "Huxley" "\"Lo ha intentado, pero no es tan lista. Es que ya estoy harto de ver esa maldita cosa.\""
+    "Huxley" "\"Lo intentó, pero no es tan lista. Es que ya estoy harto de ver esa maldita cosa.\""
 
 # game/commonroute.rpy:858
 translate spanish commonroute_68f0b73e:
@@ -3934,7 +3934,7 @@ translate spanish commonroute_c4bdf5e9:
 translate spanish commonroute_472e839e:
 
     # "They often get a little rowdy, but they know not to push it too far. They’re here so much, this is almost their home as much as mine; though I wouldn’t exactly call ‘em family."
-    "A menudo se ponen un poco alborotados, pero saben que no deben pasarse de la raya. Vienen tanto que este lugar es casi tanto su casa como la mía; aunque no los llamaría exactamente familia."
+    "Seguido se ponen un poco alborotados, pero saben que no deben pasarse de la raya. Vienen tanto que este lugar es casi tanto su casa como la mía; aunque no los llamaría exactamente familia."
 
 # game/commonroute.rpy:877
 translate spanish commonroute_63232624:
@@ -4234,7 +4234,7 @@ translate spanish commonroute_31ab5608:
 translate spanish commonroute_16daf5df:
 
     # "The stoat trembles as his pink paws glide over the buttons of his satchel, playing with them nervously."
-    "El armiño tiembla mientras sus patas rosas se deslizan por los botones de su bolso, jugueteando con ellos con nerviosismo."
+    "El armiño tiembla mientras sus patas rosas se deslizan por los botones de su morral, jugueteando con ellos con nerviosismo."
 
 # game/commonroute.rpy:960
 translate spanish commonroute_23b20522:
@@ -4390,7 +4390,7 @@ translate spanish commonroute_79ad87f0:
 translate spanish commonroute_90a6b75b:
 
     # "He looks far less drunk but far more upset."
-    "Parece mucho menos borracho, pero mucho más enfadado."
+    "Parece mucho menos borracho, pero mucho más enojado."
 
 # game/commonroute.rpy:1015
 translate spanish commonroute_d9c6cf1c:
@@ -4414,7 +4414,7 @@ translate spanish commonroute_d764d096:
 translate spanish commonroute_f68a59df:
 
     # "Cliff raises his paws, nodding, and puts the loop of his small satchel over his head."
-    "Cliff levanta las patas, asiente y se pasa por la cabeza la correa de su pequeño bolso."
+    "Cliff levanta las patas, asiente y se pasa por la cabeza la correa de su pequeño morral."
 
 # game/commonroute.rpy:1023
 translate spanish commonroute_2b2cb85c:
@@ -4678,7 +4678,7 @@ translate spanish commonroute_9749a8e2:
 translate spanish commonroute_bc71f4a2:
 
     # "The two quickly run off, leaving the weasel curled on the ground, covered in dirt and bruises, tears streaming from his eyes."
-    "Los dos salen corriendo a toda prisa, dejando a la comadreja hecha un ovillo en el suelo, cubierta de polvo y moratones, con lágrimas corriendo por sus ojos."
+    "Los dos salen corriendo a toda prisa, dejando a la comadreja hecha un ovillo en el suelo, cubierta de polvo y moretones, con lágrimas corriendo por sus ojos."
 
 # game/commonroute.rpy:1129
 translate spanish commonroute_25f4aad1:
@@ -4732,7 +4732,7 @@ translate spanish commonroute_3ee6b8e7:
 translate spanish commonroute_449e5f1d:
 
     # cl "\"No I’m not fine. I was beaten! Everything h—hurts!\""
-    cl "\"No, no estoy bien. ¡Me han pegado! ¡Me d—duele todo!\""
+    cl "\"No, no estoy bien. ¡Me golpearon! ¡Me d—duele todo!\""
 
 # game/commonroute.rpy:1140
 translate spanish commonroute_b7abbfb3:
@@ -5014,7 +5014,7 @@ translate spanish commonroute_bc449edb:
 translate spanish commonroute_f46b2280:
 
     # wi "\"Somebody reported a dead miner.\""
-    wi "\"Alguien ha denunciado que ha aparecido un minero muerto.\""
+    wi "\"Alguien denunció que apareció un minero muerto.\""
 
 # game/commonroute.rpy:1202
 translate spanish commonroute_3c16ea35:
@@ -5146,7 +5146,7 @@ translate spanish commonroute_69f5dbaa:
 translate spanish commonroute_76509049:
 
     # "Murdoch looks away, appearing not to listen, and busies himself with his camera. He takes a snapshot of a few of the gathered crowds."
-    "Murdoch aparta la mirada, dando la impresión de no estar escuchando, y se entretiene con su cámara. Hace una foto a algunas de las personas que se han reunido."
+    "Murdoch aparta la mirada, dando la impresión de no estar escuchando, y se entretiene con su cámara. Hace una foto a algunas de las personas que se reunieron."
 
 # game/commonroute.rpy:1233
 translate spanish commonroute_352d8b9e:
@@ -5674,7 +5674,7 @@ translate spanish commonroute_582ad0d1:
 translate spanish commonroute_f8c458d4:
 
     # "William already has his clothes and shirt back on."
-    "William ya se ha vuelto a poner la ropa y la camisa."
+    "William ya se volvió a poner la ropa y la camisa."
 
 # game/commonroute.rpy:1367
 translate spanish commonroute_6c45875f:
@@ -5752,7 +5752,7 @@ translate spanish commonroute_b4dda3bc:
 translate spanish commonroute_d4284ebd:
 
     # "The water is cloudy soon enough with what William left behind, but the citrus oil masks enough of his smell."
-    "Enseguida el agua se enturbia con lo que William ha dejado, pero el aceite cítrico disimula bastante su olor."
+    "Enseguida el agua se enturbia con lo que William dejó, pero el aceite cítrico disimula bastante su olor."
 
 # game/commonroute.rpy:1393
 translate spanish commonroute_3cc3e45f:
@@ -5890,7 +5890,7 @@ translate spanish commonroute_1cab3d8c:
 translate spanish commonroute_31436222:
 
     # "I’m not here very often."
-    "No vengo aquí muy a menudo."
+    "No vengo aquí muy seguido."
 
 # game/commonroute.rpy:1431
 translate spanish commonroute_9c947172:
@@ -6250,7 +6250,7 @@ translate spanish commonroute_4ce750d0:
 translate spanish commonroute_b198a9cf:
 
     # "I think I imagined something."
-    "Creo que me he imaginado algo."
+    "Creo que me imaginé algo."
 
 # game/commonroute.rpy:1522
 translate spanish commonroute_59ca00cb:
@@ -6346,7 +6346,7 @@ translate spanish commonroute_91df39a3:
 translate spanish commonroute_2abf6706:
 
     # "Cynthia looks at me, smirk wiped off of her face and her eyes full of concern."
-    "Cynthia me mira; la sonrisa burlona ha desaparecido de su rostro y sus ojos están llenos de preocupación."
+    "Cynthia me mira; la sonrisa burlona desapareció de su rostro y sus ojos están llenos de preocupación."
 
 # game/commonroute.rpy:1547
 translate spanish commonroute_4ac133b7:

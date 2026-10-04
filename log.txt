@@ -1,0 +1,181 @@
+2026-10-04 19:20:42 UTC
+Windows-11-10.0.26200-SP0
+Ren'Py 8.5.3.26051504
+
+The Smoke Room
+39
+Built at 2026-09-01 19:38:31 UTC
+
+Early init took 78 ms
+Loading error handling took 94 ms
+Loading script took 1694 ms
+Loading save slot metadata took 170 ms
+Loading persistent took 0 ms
+Set script version to: (7, 3, 5)
+Running init code took 144 ms
+Loading analysis data took 34 ms
+Analyze and compile ATL took 126 ms
+Reloading save slot metadata took 245 ms
+Dump and make backups took 0 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 150 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 359 ms
+Init translation took 1 ms
+Cleaning stores took 0 ms
+Load screen analysis took 32 ms
+Analyze screens took 0 ms
+Save screen analysis took 0 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
+﻿Ren'Py 8.5.3.26051504 lint report, generated at: Sun Oct  4 13:20:45 2026
+
+game/Murdochroute.rpy:161 The image tag 'murdoch' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/cliffroute2.rpy:131 The image tag 'all' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/cliffroute2.rpy:359 The image tag 'all' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/murdochroute2.rpy:4685 The image tag 'al' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/murdochroute2.rpy:6298 The image tag 'mu' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/murdochroute2.rpy:7229 Close text tag '{/I}' does not match open text tag '{i}'. (in "\"She knows with {i}certainty{/I} she will not receive divinity.\"")
+
+game/murdochroute3.rpy:11509 The image tag 'rei' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/murdochroute4b.rpy:3852 'sfx/schooldoor1.ogg' is not loadable
+
+game/nikroute2.rpy:2914 The image tag 'music' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/nikroute2.rpy:7542 The image tag 'mampemaze' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/nikroute2.rpy:8525 The image tag 'dangerdown' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/nikroute2.rpy:8568 The image tag 'dangerdown' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/nikroute2.rpy:8584 The image tag 'dangerdown' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/nikroute2.rpy:8618 The image tag 'dangerdown' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/nikroute2.rpy:8640 The image tag 'dangerdown' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/options.rpy:21 define gui.show_name already defined at game/gui.rpy:107
+
+game/script.rpy:2 Image bg1 uses file 'bg1.webp', which is not loadable.
+
+game/script.rpy:73 Image bg mineclimb uses file 'images/backgrounds/mineoverclimb.webp', which is not loadable.
+
+game/script.rpy:174 Image bg minemesshall uses file 'images/backgrounds/minemesshall.webp', which is not loadable.
+
+game/script.rpy:199 Image bg wilch3a uses file 'images/backgrounds/wilcha.webp', which is not loadable.
+
+game/script.rpy:202 Image bg clich3 uses file 'images/backgrounds/clich3a.webp', which is not loadable.
+
+game/script.rpy:493 Image bg stagebelow3a uses file 'backgrounds/stagebelow3a.webp', which is not loadable.
+
+game/script.rpy:522 Image bg blithevision5 uses file 'backgrounds/blithevision5.webp', which is not loadable.
+
+game/script.rpy:917 Image mur nocam horrified uses file 'images/sprites/murdoch/no camera/mur nocam horrified.webp', which is not loadable.
+
+game/script.rpy:961 Image mur talking calm suit uses file 'images/sprites/murdoch/suit/suit/mur talking calm suit.webp', which is not loadable.
+
+game/script.rpy:975 Image mur talking calm vest uses file 'images/sprites/murdoch/suit/vest/mur talking calm vest.webp', which is not loadable.
+
+game/script.rpy:1009 Image cli angry bulge uses file 'images/sprites/cliff/clibulgeangry.webp', which is not loadable.
+
+game/script.rpy:1011 Image cli down bulge uses file 'images/sprites/cliff/clibulgedown.webp', which is not loadable.
+
+game/script.rpy:1012 Image cli eyes talking bulge uses file 'images/sprites/cliff/clibulgeeyestalking.webp', which is not loadable.
+
+game/script.rpy:1014 Image cli frustrated bulge uses file 'images/sprites/cliff/clifrustratedbulge.webp', which is not loadable.
+
+game/script.rpy:1015 Image cli happy bulge uses file 'images/sprites/cliff/clihappybulge.webp', which is not loadable.
+
+game/script.rpy:1042 Image cli down pants bulge uses file 'images/sprites/cliff/cli downpantsbulge.webp', which is not loadable.
+
+game/script.rpy:1045 Image cli frustrated pants bulge uses file 'images/sprites/cliff/cli frustratedpantsbulge.webp', which is not loadable.
+
+game/script.rpy:1046 Image cli happy pants bulge uses file 'images/sprites/cliff/cli happypantsbulge.webp', which is not loadable.
+
+game/script.rpy:1048 Image cli shocked pants bulge uses file 'images/sprites/cliff/cli shockedpantsbulge.webp', which is not loadable.
+
+game/script.rpy:1053 Image cli pants blush bulge eyes closed talking uses file 'images/sprites/cliff/cli pantsbulgeblush4.webp', which is not loadable.
+
+game/script.rpy:1058 Image cli naked uses file 'images/sprites/cliff/clinaked.webp', which is not loadable.
+
+game/script.rpy:1062 Image cli eyes naked talking uses file 'images/sprites/cliff/cli eyes talkingnaked.webp', which is not loadable.
+
+game/script.rpy:1063 Image cli eyes naked uses file 'images/sprites/cliff/cli eyesnaked.webp', which is not loadable.
+
+game/script.rpy:1067 Image cli serious naked uses file 'images/sprites/cliff/cli seriousnaked.webp', which is not loadable.
+
+game/script.rpy:1069 Image cli talking naked uses file 'images/sprites/cliff/cli talkingnaked.webp', which is not loadable.
+
+game/script.rpy:1081 Image cli happy hard uses file 'images/sprites/cliff/cli happyhard.webp', which is not loadable.
+
+game/script.rpy:1087 Image cli blush hard eyes closed talking uses file 'images/sprites/cliff/clihardblush4.webp', which is not loadable.
+
+game/script.rpy:1146 Image wil embarrassed n uses file 'images/sprites/william/wil embarrassed n.webp', which is not loadable.
+
+game/script.rpy:1150 Image wil sideeyes n uses file 'images/sprites/william/wil sideeyes n.webp', which is not loadable.
+
+game/script.rpy:1157 Image wil embarrassed b uses file 'images/sprites/william/wil embarrassed b.webp', which is not loadable.
+
+game/script.rpy:1160 Image wil sideeyes b uses file 'images/sprites/william/wil sideeyes b.webp', which is not loadable.
+
+game/script.rpy:1227 Image cyn annoyedcrossed uses file 'images/sprites/cynthia/cynannoyedcrossed.webp', which is not loadable.
+
+game/script.rpy:1253 Image tod angry a uses file 'images/sprites/todd/todangry a.webp', which is not loadable.
+
+game/script.rpy:1260 Image tod yell a uses file 'images/sprites/todd/todyell a.webp', which is not loadable.
+
+game/script.rpy:1316 Image jam naked anger uses file 'images/sprites/james/jamnakedanger.webp', which is not loadable.
+
+game/script.rpy:1929 Image jim dreamworks n uses file 'images/sprites/jim/nude/jim dreamworks n.webp', which is not loadable.
+
+game/script.rpy:1930 Image jim dreamworks talking n uses file 'images/sprites/jim/nude/jim dreamworks talking n.webp', which is not loadable.
+
+game/script.rpy:2876 Image notemur uses file 'images/sprites/notebook/murnote.webp', which is not loadable.
+
+game/tl/spanish/murdochroute2.rpy:25141 Close text tag '{/I}' does not match open text tag '{i}'. (in "\"She knows with {i}certainty{/I} she will not receive divinity.\"")
+
+game/williamroute.rpy:758 The image tag 'murdoch' is not the prefix of a declared image, nor was it used in a show statement before this hide statement.
+
+game/williamroute3.rpy:12325 'sam neutral -talking light1' is not an image.
+
+
+Obsolete Image Manipulators:
+
+game/recolorsbase.rpy:
+    * line   112 im.MatrixColor
+
+
+Unreachable Statements:
+
+game/williamroute3.rpy:
+    * line  2535 
+    * line  2536 
+    * line  2538 
+    * line  2539 
+    * and 1 more.
+It is advised to set config.check_conflicting_properties to True.
+
+
+Statistics:
+
+The game contains 54,157 dialogue blocks, containing 475,010 words and
+2,492,487 characters, for an average of 8.8 words and 46 characters per block.
+
+The spanish translation contains 54,157 dialogue blocks, containing 475,682
+words and 2,499,724 characters, for an average of 8.8 words and 46 characters
+per block.
+
+The game contains 112 menus, 1,624 images, and 32 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
